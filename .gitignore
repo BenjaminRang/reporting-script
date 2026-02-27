@@ -1,0 +1,9 @@
+# Geheimnisse
+.env
+*.json
+!example.json
+
+# Python Kram
+__pycache__/
+venv/
+.antigravity/
